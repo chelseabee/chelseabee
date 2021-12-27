@@ -10,6 +10,9 @@ Front-End Learning Path:
 2. JavaScript
 3. React
 
+Other things to learn:
+1. GitHub
+
 *** Always open to friendly learning suggestions ***
 
 <!---
