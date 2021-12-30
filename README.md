@@ -9,9 +9,16 @@ Front-End Learning Path:
 1. CSS and HTML
 2. JavaScript
 3. React
+4. API's
+5. SASS
 
 Other things to learn:
 1. GitHub
+2. Vanilla JavaScript
+
+Current To-Do's:
+1.Finish FCC responsive web design cert and projects
+2. Start portfolio web page
 
 *** Always open to friendly learning suggestions ***
 
