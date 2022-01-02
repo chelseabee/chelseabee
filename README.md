@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chelseabee
 - 👀 I’m currently interested in all things front end 
-- 🌱 I’m currently learning responsive web design: builing a product landing page via freecodecamp
+- 🌱 I’m currently learning responsive web design: builing a technical document page via freecodecamp
 - 💞️ I’m looking to make connections with other code newbies
 - 📫 How to reach me: chelsea.bush@wsu.edu
 
