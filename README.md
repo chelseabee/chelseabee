@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chelseabee
 - 👀 I’m currently interested in all things front end 
-- 🌱 I’m currently learning responsive web design: builing Personal Portfolio Webpage via freecodecamp
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to make connections with other code newbies
 - 📫 How to reach me: chelsea.bush@wsu.edu
 
@@ -15,10 +15,10 @@ Front-End Learning Path:
 Other things to learn:
 1. GitHub
 2. Vanilla JavaScript
+3. Python
 
-Current To-Do's:
-1.Finish FCC responsive web design cert and projects
-2. Start portfolio web page
+Completed:
+FreeCodeCamp Responsive Web Design Certification
 
 *** Always open to friendly learning suggestions ***
 
