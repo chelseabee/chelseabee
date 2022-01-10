@@ -8,7 +8,7 @@
 Front-End Learning Path:
 1. CSS and HTML
 2. JavaScript
-3. React
+3. React/ Vue
 4. API's
 5. SASS
 
