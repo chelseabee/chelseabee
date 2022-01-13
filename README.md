@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chelseabee
 - 👀 I’m currently interested in all things front end 
-- 🌱 I’m currently learning JavaScript via codecademy... I am possibly in tutorial hell...O world. && working on my portfolio page, trying to learn how to make it more responsive, incorperate CSS maybe even SASS???? Thinking about commiting to 100 days of code. 
+- 🌱 I’m currently learning JavaScript functions on Codecademy && trying to do some of my own projects on the side so I can actually practice the code and not feel like im circling the tutorial drain to you know where. 
 - 💞️ I’m looking to make connections with other code newbies
 - 📫 How to reach me: chelsea.bush@wsu.edu
 
