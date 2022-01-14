@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @chelseabee
 - 👀 I’m currently interested in all things front end 
-- 🌱 I’m currently learning JavaScript scope && bootstrap ... looking toward sass 
+- 🌱 I’m currently learning JavaScript scope && bootstrap ... looking toward sass
+- I' am currently wanting to build an honesty box replica... does anyone remember how fun that was, just me, ok cool.  
 - 💞️ I’m looking to make connections with other code newbies
 - 📫 How to reach me: chelsea.bush@wsu.edu
 
