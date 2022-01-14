@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chelseabee
 - 👀 I’m currently interested in all things front end 
-- 🌱 I’m currently learning JavaScript functions on Codecademy && trying to do some of my own projects on the side so I can actually practice the code and not feel like im circling the tutorial drain to you know where. 
+- 🌱 I’m currently learning JavaScript scope && bootstrap ... looking toward sass 
 - 💞️ I’m looking to make connections with other code newbies
 - 📫 How to reach me: chelsea.bush@wsu.edu
 
@@ -10,7 +10,7 @@ Front-End Learning Path:
 2. JavaScript
 3. React/ Vue
 4. API's
-5. SASS
+5. Bootstrap and SASS
 
 Other things to learn:
 1. GitHub
