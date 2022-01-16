@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chelseabee
 - 👀 I’m currently interested in all things front end 
-- 🌱 I’m currently learning JavaScript scope && bootstrap ... looking toward sass
-- I' am currently wanting to build an honesty box replica... does anyone remember how fun that was, just me, ok cool.  
+- 🌱 I’m currently learning JavaScript Arrays, and trying out some react and bootstrap, I ran into a problem with my portfolio, being that I don't have any projects to really display, so currently working on some projects, thinking a landing page with an authentification might be a good one, is this even possible without backend technologies??? 
 - 💞️ I’m looking to make connections with other code newbies
 - 📫 How to reach me: chelsea.bush@wsu.edu
 
