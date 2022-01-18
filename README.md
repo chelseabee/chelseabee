@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chelseabee
 - 👀 I’m currently interested in all things front end 
-- 🌱 I’m currently learning JavaScript Arrays, and trying out some react and bootstrap, I ran into a problem with my portfolio, being that I don't have any projects to really display, so currently working on some projects, thinking a landing page with an authentification might be a good one, is this even possible without backend technologies??? 
+- 🌱 I’m currently learning JavaScript loops, and starting to think about what I actually need to know to land a real job. Trying to shape a learning plan for leetcode type problems while creating web pages for my portfolio, and further my knowledge of css tools. I have found that learning multiple things at once keeps me much more engaged vs trying to only learn one topic at a time. 
 - 💞️ I’m looking to make connections with other code newbies
 - 📫 How to reach me: chelsea.bush@wsu.edu
 
