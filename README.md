@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chelseabee
 - 👀 I’m currently interested in all things front end 
-- 🌱 I’m currently learning JavaScript loops, and starting to think about what I actually need to know to land a real job. Trying to shape a learning plan for leetcode type problems while creating web pages for my portfolio, and further my knowledge of css tools. I have found that learning multiple things at once keeps me much more engaged vs trying to only learn one topic at a time. 
+- 🌱 I’m currently learning JavaScript ----- still .... is it this hard for everyone to grasp? Currently revisting some free code camp curriculum, and I feel like im understanding more, but I am having a hard time, switching from these small tutorial tasks to real world application. I feel like whenever I need a Jacascript element for my webpages I am googling and finding out how to do it rather than implementing it myself.... is this how it is? I think I am at a point where I need some mentorship or code-friendship. 
 - 💞️ I’m looking to make connections with other code newbies
 - 📫 How to reach me: chelsea.bush@wsu.edu
 
