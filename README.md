@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chelseabee
 - 👀 I’m currently interested in all things front end 
-- 🌱 I’m currently learning JavaScript ----- still .... ES6 now... ahhh
+- 🌱 I’m currently learning JavaScript - switched over from FCC to a Udemy course, which I honestly think is much better for really grasping the content. Using only the tutorials on FCC doesnt allow for actual application, so even after hours of "learning" I never felt able to build something. It is good for very basic learning I think, like what is a variable, etc but beyond that at least for me I cannot pick up the concepts without actually applying them in a project. curently using the complete JS course by Maximilian Schwarzmüller, and he's great! Thankful that I found him. 
 - 💞️ I’m looking to make connections with other code newbies
 - 📫 How to reach me: chelsea.bush@wsu.edu
 
