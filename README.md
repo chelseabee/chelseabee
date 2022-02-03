@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chelseabee
 - 👀 I’m currently interested in all things frontend and maybe possibly backend, the more I learn the more I want to learn!
-- 🌱 I’m currently learning JavaScript - switched over from FCC to a Udemy course... Im still here, trying to build this calculator lol. for real though, after taking a couple days for some personal time, i miss coding so much. Here I go..... 
+- 🌱 I’m currently learning JavaScript - finally starting to click with Javascript I think!! I did a build along calculator and it was a great learning expereince! SO SO SO much easier to learn to code while actually building something!! I am kind of curious how much JS frontend devs actually use? From what I am gathering they can use something like react and basically write a whole pages html with JS/React componenets, but otherwise is it mostly for interactive elements? off I go to learn more....... 
 - 💞️ I’m looking to make connections with other code newbies
 - 📫 How to reach me: chelsea.bush@wsu.edu
 
