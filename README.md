@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chelseabee
 - 👀 I’m currently interested in all things frontend and maybe possibly backend, the more I learn the more I want to learn!
-- 🌱 I’m currently learning JavaScript - finally starting to click with Javascript I think!! I did a build along calculator and it was a great learning expereince! SO SO SO much easier to learn to code while actually building something!! I am kind of curious how much JS frontend devs actually use? From what I am gathering they can use something like react and basically write a whole pages html with JS/React componenets, but otherwise is it mostly for interactive elements? off I go to learn more....... 
+- 🌱 I’m currently learning JavaScript - I have decided to write my own to-do list, I have made one previously using a react tutorial, but it went over my head a bit, so I am now working on one using vanilla JS and trying to do it mostly myself. I am also still working through my Udemy course which I think has been really helpful. It is crazy though, everytime I think I am learning something, I just have more questions. like getElementByID vs querySelector ??? From what I have found that will probably come up in my ES6,7,8 module, and it seems people have very strong feelings one way or another on this .... welp here I go off to learn more. 
 - 💞️ I’m looking to make connections with other code newbies
 - 📫 How to reach me: chelsea.bush@wsu.edu
 
