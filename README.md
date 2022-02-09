@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chelseabee
 - 👀 I’m currently interested in all things frontend and maybe possibly backend, the more I learn the more I want to learn!
-- 🌱 I’m currently learning JavaScript - I have decided to write my own to-do list, I have made one previously using a react tutorial, but it went over my head a bit, so I am now working on one using vanilla JS and trying to do it mostly myself. I am also still working through my Udemy course which I think has been really helpful. It is crazy though, everytime I think I am learning something, I just have more questions. like getElementByID vs querySelector ??? From what I have found that will probably come up in my ES6,7,8 module, and it seems people have very strong feelings one way or another on this .... welp here I go off to learn more. 
+- 🌱 I’m currently learning JavaScript - I am still working on my todolist, I think I may add it on here so that i can update the progress as i go. I am officailly stuck trying to get items to delete off my list, but thats okay with me. I dont like the feeling of being stuck, but I do like how many things you can uncover and learn when you are in a place of 'stuck'. Hopefully I will figure it all out soon, I am trying to use my own logic and functions without really borrowing ideas. It makes me realize that I am learning a lot, a week ago I would never have gotten this far. 
 - 💞️ I’m looking to make connections with other code newbies
 - 📫 How to reach me: chelsea.bush@wsu.edu
 
