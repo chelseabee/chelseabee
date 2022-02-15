@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chelseabee
 - 👀 I’m currently interested in all things frontend and maybe possibly backend, the more I learn the more I want to learn!
-- 🌱 I’m currently learning JavaScript - I am still working on my todolist, I think I may add it on here so that i can update the progress as i go. I am officailly stuck trying to get items to delete off my list, but thats okay with me. I dont like the feeling of being stuck, but I do like how many things you can uncover and learn when you are in a place of 'stuck'. Hopefully I will figure it all out soon, I am trying to use my own logic and functions without really borrowing ideas. It makes me realize that I am learning a lot, a week ago I would never have gotten this far. 
+- 🌱 I’m currently learning JavaScript - I finished my todo list, I have a couple things to work out, but overall it works and it looks great! I have been working on an ecommerce page for Frontend Mentor which I have been able to get looking right, but some functionality is kind of stumping me. I am not sure if I should try and work through it or return to my Udemy course so that I can try and learn more of the required skills, the answer is probably a little bit of both. Well here I go, Ill try and load my current progress on here. 
 - 💞️ I’m looking to make connections with other code newbies
 - 📫 How to reach me: chelsea.bush@wsu.edu
 
