@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chelseabee
 - 👀 I’m currently interested in all things frontend and maybe possibly backend, the more I learn the more I want to learn!
-- 🌱 I’m currently learning JavaScript - Javascript WHYYYYYY! lol uggg! I feel like I have really advanced in my JS knowledge, but I am having trouble actully writing in JS, is this something everyone deals with?????? I am working on UDEMY and some leet code problems, hoping that I can become more condfident, and make better logical decisions. I seem to want to overcomplicate things (nothing new there). Any who, I am kind of getting an itch to learn Python, but debating if that may set back my JS knowledge that I have accumulated, perhaps I should try some react or vue instead??? Decisions decisions!
+- 🌱 I’m currently learning JavaScript - Still chugging along, decided to work on a new project today using HTML/SCSS/JS, and its fairly JS heavy and easy enough to navigate mostly on my own even if I am a little stuck at the moment. Feeling confident about this one!
 - 💞️ I’m looking to make connections with other code newbies
 - 📫 How to reach me: chelsea.bush@wsu.edu
 
@@ -14,9 +14,8 @@ Front-End Learning Path:
 
 Other things to learn:
 1. GitHub
-2. Vanilla JavaScript
-3. Python
-4. SQL
+2. Python
+3. SQL
 
 Completed:
 FreeCodeCamp Responsive Web Design Certification
