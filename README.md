@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chelseabee
 - 👀 I’m currently interested in all things frontend and maybe possibly backend, the more I learn the more I want to learn!
-- 🌱 I’m currently learning JavaScript - Still chugging along, decided to work on a new project today using HTML/SCSS/JS, and its fairly JS heavy and easy enough to navigate mostly on my own even if I am a little stuck at the moment. Feeling confident about this one!
+- 🌱 I’m currently learning JavaScript - I am still working on my current project, and still enjoying it :]! I asked my first stackOverflow question today so I feel like that deserves a party! I am excited to keep learning all the things!!
 - 💞️ I’m looking to make connections with other code newbies
 - 📫 How to reach me: chelsea.bush@wsu.edu
 
