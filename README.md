@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chelseabee
 - 👀 I’m currently interested in all things frontend and maybe possibly backend, the more I learn the more I want to learn!
-- 🌱 I’m currently learning JavaScript - I am still working on my current project, and still enjoying it :]! I asked my first stackOverflow question today so I feel like that deserves a party! I am excited to keep learning all the things!!
+- 🌱 I’m currently learning JavaScript - I am in a little bit of a rut. I am still exctited by learning, but I have some holes in my knowledeg that are preventing me to move on from beginner to novice. I feel very comfortable with DOM manipulation and generally making things happen with JS, but topics such as closures and advanced loops and searches still evade me a bit. I know its all a learning process and I am trying not to become discouraged. Part of me is saying move on to react or even jump to python so I can start with a clean slate. I am afraid that in doing so however I'll become a master of none. 
 - 💞️ I’m looking to make connections with other code newbies
 - 📫 How to reach me: chelsea.bush@wsu.edu
 
