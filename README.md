@@ -1,21 +1,12 @@
 - 👋 Hi, I’m @chelseabee
-- 👀 I’m currently interested in all things frontend and maybe possibly backend, the more I learn the more I want to learn!
-- 🌱 I’m currently learning JavaScript - I am in a little bit of a rut. I am still exctited by learning, but I have some holes in my knowledeg that are preventing me to move on from beginner to novice. I feel very comfortable with DOM manipulation and generally making things happen with JS, but topics such as closures and advanced loops and searches still evade me a bit. I know its all a learning process and I am trying not to become discouraged. Part of me is saying move on to react or even jump to python so I can start with a clean slate. I am afraid that in doing so however I'll become a master of none. 
-- 💞️ I’m looking to make connections with other code newbies
+- 👀 I’m currently looking to enroll in a BS in software dev/ engineering. 
+- 🌱 I’m currently learning a little C# and reviewing some JAVA trying to decide between the two tracks for the degree program. 
+- 💞️ I’m looking to make connections with anyone who feels like coding can be really hard sometimes, but wont give up! 
 - 📫 How to reach me: chelsea.bush@wsu.edu
 
+debating: cloud commputing vs software dev??? 
 
-Front-End Learning Path:
-1. CSS and HTML
-2. JavaScript
-3. React/ Vue
-4. API's
-5. Bootstrap and SASS
 
-Other things to learn:
-1. GitHub
-2. Python
-3. SQL
 
 Completed:
 FreeCodeCamp Responsive Web Design Certification
